@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
 <html lang="de">
   <head>
-    <title>What you should know before buying a MTB
+    <title>Page_2
     	</title>
-
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     </head>
@@ -12,57 +13,35 @@
     <body>
 
       <div class="row">
-        <div class="col-sm-8">
-          <ul>
+          <div class="col-sm-8">
+            <ul>
 
-            <div class="row">
-              <li>Get the right size. First up, everything else is secondary to the right frame size: You can choose between 4 different sizes: <strong>S</strong>,<strong>M</strong>,<strong>L</strong>,<strong>XL</strong>,<strong>XXL</strong></li>
-              </li>
-              <div class="col-sm-4">
-                <div id="Frame-size" class="carousel slide" data-bs-ride="carousel">
-                  <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#Frame-size" data-bs-slide-to="0" class="active"></button>
-                    <button type="button" data-bs-target="#Frame-size" data-bs-slide-to="1"></button>
-                    <button type="button" data-bs-target="#Frame-size" data-bs-slide-to="2"></button>
-                    <button type="button" data-bs-target="#Frame-size" data-bs-slide-to="3"></button>
-                    <button type="button" data-bs-target="#Frame-size" data-bs-slide-to="4"></button>
-                  </div>
-                  <div class="carousel-inner">
-                   <div class="carousel-item active" data-bs-interval="5000">
-                     <img src="https://www.yt-industries.com/media/image/79/8f/cf/01_Capra_29_AL_Pro_Gunship_Blue_GABEL.jpg" alt="Frame-size" class="d-block" style="width:100%">
-                   </div>
-                   <div class="carousel-item" data-bs-interval="5000">
-                     <img src="https://cdn-prod.yt-industries.com/media/image/45/cf/e2/capra_pro_al_gallery_01.jpg" alt="Frame-size" class="d-block" style="width:100%">
-                   </div>
-                   <div class="carousel-item" data-bs-interval="5000">
-                     <img src="https://cdn-prod.yt-industries.com/media/image/77/de/e3/capra_pro_al_gallery_02.jpg" alt="Frame-size" class="d-block" style="width:100%">
-                   </div>
-                   <div class="carousel-item" data-bs-interval="5000">
-                     <img src="https://cdn-prod.yt-industries.com/media/image/77/de/e3/capra_pro_al_gallery_02.jpg" alt="Frame-size" class="d-block" style="width:100%">
-                   </div>
-                   <div class="carousel-item" data-bs-interval="5000">
-                     <img src="https://cdn-prod.yt-industries.com/media/image/77/de/e3/capra_pro_al_gallery_02.jpg" alt="Frame-size" class="d-block" style="width:100%">
-                   </div>
-                 </div>
-                 <button class="carousel-control-prev" type="button" data-bs-target="#Frame-size" data-bs-slide="prev">
-                  <span class="carousel-control-prev-icon"></span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#Frame-size" data-bs-slide="next">
-                  <span class="carousel-control-next-icon"></span>
-                </button>
-               </div>
+              <div class="row">
+                <li>Get the right size. First up, everything else is secondary to the right frame size: You can choose between 4 different sizes: <strong>S</strong>,<strong>M</strong>,<strong>L</strong>,<strong>XL</strong>,<strong>XXL</strong></li>
+                </li>
+                <div class="container mt-3">
+                  <img class="img-fluid" src="https://www.beastiebikes.com.au/wp-content/uploads/2020/10/mtb-bike-size-chart.jpg" alt="Frame size chart" width="75%" >
+                </div>
               </div>
-            </div>
-            <li>The next important step is to choose the right Wheel size: <strong>26"</strong>,<strong>27,5"</strong>,<strong>29"</strong>
-            </li>
-            <li><strong>Don’t obsess about weight</strong>: Check the reviews of the forks and shocks (on full susspension) on the bike you’re looking at, and use the manufacturer’s site to get the exact models!
-            </li>
-            <li><strong>Choose suspension quality, not quantity</strong>: Weight is important, but off-road, strength is marginally more important!
-            </li>
-            <li><strong>Keep some budget back</strong>: Often you need some parts to replace the broken ones or bald tyres. Moreover, there are a lot of necessary part you need like a fidlock bottle
-            </li>
-          </ul>
+              <div class="row">
+              <li>The next important step is to choose the right Wheel size: <strong>26"</strong>,<strong>27,5"</strong>,<strong>29"</strong>
+              </li>
+              <div class="container mt-3">
+                <img class="img-fluid" src="https://cdn.fahrrad-xxl.de/media/thumbs/513509_5399028.jpg" alt="Wheel size chart" width="65%" >
+              </div>
+                </div>
+              <li><strong>Don’t obsess about weight</strong>: Check the reviews of the forks and shocks (on full susspension) on the bike you’re looking at, and use the manufacturer’s site to get the exact models!
+              </li>
+              <li><strong>Choose suspension quality, not quantity</strong>: Weight is important, but off-road, strength is marginally more important!
+              </li>
+              <div class="container mt-3">
+                <img class="img-fluid" src="http://favbike.de/wp-content/uploads/2017/04/fox-2018-forks-shox.jpg" alt="fork/fully" width="65%" >
+              </div>
+              <li><strong>Keep some budget back</strong>: Often you need some parts to replace the broken ones or bald tyres. Moreover, there are a lot of necessary part you need like a fidlock bottle
+              </li>
+              </div>
+            </ul>
+          </div>
         </div>
-
     </body>
   </html>
